@@ -65,7 +65,6 @@ src="https://img.shields.io/twitch/status/LuizMonoDarius?logo=twitchsx&style=for
 
 <div>
   <a href="https://LuizVithor.web.app" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizVithor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizVithor&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
