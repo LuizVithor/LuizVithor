@@ -10,7 +10,7 @@ Desenvolvedor, Gamer, Músico e Palmeirense. Full Stack, Apaixonado em tecnologi
 
 *   🌍  São Paulo - SP
 *   ✉️  Me manda um e-mail: [luizmonodarius@gmail.com](mailto:luizmonodarius@gmail.com)
-*   🧠  Atualmente aprimorando conhecimentos de Python, Django, Ruby e PEN testes 
+*   🧠  Atualmente aprimorando conhecimentos de Vue.js, Angular e Next
 *   💍  O ultimo romantico da terra em um relacionamento sério com a vida
 
 <a href="https://www.twitter.com/Eltoplaner2" target="_blank" rel="noreferrer"><img
