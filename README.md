@@ -62,3 +62,9 @@ src="https://img.shields.io/twitch/status/LuizMonoDarius?logo=twitchsx&style=for
 <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="36" height="36" alt="PyCharm" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/max/383/1*co_1qORNdM0PI1nvCp7Iig.png" width="36" height="36" alt="Git" /></a>
 <a href="https://insomnia.rest/download" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/2575745/67964810-4d9a2980-fbd7-11e9-8cf7-661ded187ee6.png" width="36" height="36" alt="Insomnia" /></a>
+
+<div>
+  <a href="https://LuizVithor.web.app" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizVithor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizVithor&layout=compact&langs_count=7&theme=dark"/>
+</div>
