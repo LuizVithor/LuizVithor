@@ -1,6 +1,6 @@
 Hello/Olá👋 Meu nome é Luiz e esse é meu Github
 ==================================
-### *Dev Junior*
+### *Dev Pleno*
 
 
 Computer Engeneering on Centro Universitário ENIAC
