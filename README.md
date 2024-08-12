@@ -9,7 +9,7 @@ Computer Engeneering on Centro Universitário ENIAC
 Desenvolvedor, Gamer, Músico e Palmeirense. Full Stack, Apaixonado em tecnologia, inovação e acessibilidade
 
 *   🌍  São Paulo - SP
-*   ✉️  Me manda um e-mail: [luizmonodarius@gmail.com](mailto:luizmonodarius@gmail.com)
+*   ✉️  Me manda um e-mail: [luizvithorprofissional@gmail.com](mailto:luizvithorprofissional@gmail.com)
 *   🧠  Atualmente aprimorando conhecimentos de Vue.js, Angular e Next
 *   💍  O ultimo romantico da terra em um relacionamento sério com a vida
 
