@@ -1,4 +1,4 @@
-# Hello/Olá 👋 Meu nome é **Luiz** e esse é meu GitHub
+# Bem vindo ao meu GitHub!
 
 ### *Dev Pleno*
 
