@@ -4,11 +4,10 @@
 
 ## **Computer Engineering** — Centro Universitário ENIAC
 
-Desenvolvedor, gamer, músico e palmeirense. Full‑stack apaixonado por tecnologia, inovação e acessibilidade.
+Desenvolvedor, gamer e músico. Full‑stack apaixonado por tecnologia, inovação e acessibilidade.
 
 * 🌍  São Paulo – SP
 * ✉️  [luizvithorprofissional@gmail.com](mailto:luizvithorprofissional@gmail.com)
-* 🧠  Atualmente aprimorando conhecimentos em **Vue.js**, **Angular** e **Next.js**
 
 <a href="https://github.com/LuizVithor" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/LuizVithor?logo=github&style=for-the-badge&color=a855f7&labelColor=22272e" /></a> <a href="https://www.twitch.tv/LuizMonoDarius" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/LuizMonoDarius?logo=twitch&style=for-the-badge&color=a855f7&labelColor=22272e&label=TWITCH+STATUS" /></a>
 
