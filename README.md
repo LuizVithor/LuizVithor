@@ -1,6 +1,6 @@
 # Bem vindo ao meu GitHub!
 
-### *Dev Pleno*
+### *Dev Sênior*
 
 ## **Computer Engineering**
 
