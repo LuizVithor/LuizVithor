@@ -2,7 +2,7 @@
 
 ### *Dev Pleno*
 
-## **Computer Engineering** — Centro Universitário ENIAC
+## **Computer Engineering**
 
 Desenvolvedor, gamer e músico. Full‑stack apaixonado por tecnologia, inovação e acessibilidade.
 
